@@ -16,10 +16,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[![ZacKaiser | YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/channel/UCmh32W1oVauN84f4jCGRQFA)
-[![ZacKaiser | Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/Kaiser_Zac)
-[![ZacKaiser | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/zachary-f-kaiser/)
-[![ZacKaiser | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/kaiser_roll98)
+[![ZacKaiser | YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/channel/UCmh32W1oVauN84f4jCGRQFA){ width=22 height=22 }
+[![ZacKaiser | Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/Kaiser_Zac){ width=22 height=22 }
+[![ZacKaiser | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/zachary-f-kaiser/){ width=22 height=22 }
+[![ZacKaiser | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/kaiser_roll98){ width=22 height=22 }
 
 
 - 👋 Hi, I’m Zachary KAISER
