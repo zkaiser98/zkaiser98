@@ -4,8 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - 
+- <b>Full Stack Web App (Python, Django, HTML, CSS, and SQL)</b>
+  - [Blogspot Website] (https://github.com/zkaiser98/BlogspotDupe)
 - <b>PowerShell</b>
   - 
 - <b>C# (.NET Desktop Applications)</b>
