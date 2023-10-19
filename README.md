@@ -16,14 +16,14 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[![ZacKaiser | YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/channel/UCmh32W1oVauN84f4jCGRQFA){ width=22 height=22 }
-[![ZacKaiser | Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/Kaiser_Zac){ width=22 height=22 }
-[![ZacKaiser | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/zachary-f-kaiser/){ width=22 height=22 }
-[![ZacKaiser | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/kaiser_roll98){ width=22 height=22 }
+[<img align="left" alt="ZacKaiser | YouTube" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCmh32W1oVauN84f4jCGRQFA)
+[<img align="left" alt="ZacKaiser | Twitter" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Kaiser_Zac)
+[<img align="left" alt="ZacKaiser | LinkedIn" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zachary-f-kaiser/)
+[<img align="left" alt="ZacKaiser | Instagram" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kaiser_roll98)
 
+<h2></h2>
 
 - 👋 Hi, I’m Zachary KAISER
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Swift as well as Git
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zkaiser98@gmail.com
