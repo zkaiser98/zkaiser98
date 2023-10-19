@@ -20,6 +20,8 @@
 <h2></h2>
 
 - 👋 Hi, I’m Zachary Kaiser
+- 🏫 Currently a Junior @ UW-Milwaukee
+- 🇺🇸 US Navy Veteran
 - 👀 I’m interested in becoming a Full Stack Developer
 - 🌱 I’m currently learning Swift as well as Git
 - 📫 Reach me zkaiser98@gmail.com
