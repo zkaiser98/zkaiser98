@@ -19,7 +19,7 @@
 
 <h2></h2>
 
-- 👋 Hi, I’m Zachary KAISER
-- 👀 I’m interested in Full Stack Development
+- 👋 Hi, I’m Zachary Kaiser
+- 👀 I’m interested in becoming a Full Stack Developer
 - 🌱 I’m currently learning Swift as well as Git
-- 📫 How to reach me zkaiser98@gmail.com
+- 📫 Reach me zkaiser98@gmail.com
