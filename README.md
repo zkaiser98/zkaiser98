@@ -12,25 +12,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.youtube.com/channel/UCmh32W1oVauN84f4jCGRQFA">
-  <img align="left" alt="ZacKaiser | YouTube" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-  YouTube
-</a>
+[<img align="left" alt="ZacKaiser | LinkedIn" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zachary-f-kaiser/)
+[<img align="left" alt="ZacKaiser | Instagram" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kaiser_roll98)
+[<img align="left" alt="ZacKaiser | YouTube" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCmh32W1oVauN84f4jCGRQFA)
+[<img align="left" alt="ZacKaiser | Twitter" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Kaiser_Zac)
 
-<a href="https://twitter.com/Kaiser_Zac">
-  <img align="left" alt="ZacKaiser | Twitter" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  Twitter
-</a>
-
-<a href="https://www.linkedin.com/in/zachary-f-kaiser/">
-  <img align="left" alt="ZacKaiser | LinkedIn" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  LinkedIn
-</a>
-
-<a href="https://www.instagram.com/kaiser_roll98">
-  <img align="left" alt="ZacKaiser | Instagram" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  Instagram
-</a>
 
 <h2></h2>
 
