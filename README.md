@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - 
+- <b>Data Structures and Algorithms Practice</b>
+  - [LeetCode Profile](https://leetcode.com/zkaiser98)
 - <b>Full Stack Web App (Python, Django, HTML, CSS, and SQL)</b>
   - [Blogspot Website](https://github.com/zkaiser98/BlogspotDupe)
 
