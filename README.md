@@ -16,17 +16,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ZacKaiser | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ZacKaiser | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ZacKaiser | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ZacKaiser | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![ZacKaiser | YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/channel/UCmh32W1oVauN84f4jCGRQFA)
+[![ZacKaiser | Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/Kaiser_Zac)
+[![ZacKaiser | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/zachary-f-kaiser/)
+[![ZacKaiser | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/kaiser_roll98)
 
-
-<h2></h2>
-[twitter]: https://twitter.com/Kaiser_Zac
-[youtube]: https://www.youtube.com/channel/UCmh32W1oVauN84f4jCGRQFA
-[instagram]: https://www.instagram.com/kaiser_roll98/
-[linkedin]: https://www.linkedin.com/in/zachary-f-kaiser/
 
 - 👋 Hi, I’m Zachary KAISER
 - 👀 I’m interested in Full Stack Development
