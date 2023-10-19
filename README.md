@@ -6,13 +6,8 @@
   - [LeetCode Profile](https://leetcode.com/zkaiser98)
 - <b>Full Stack Web App (Python, Django, HTML, CSS, and SQL)</b>
   - [Blogspot Website](https://github.com/zkaiser98/BlogspotDupe)
-
-- <b>PowerShell</b>
-  - 
-- <b>C# (.NET Desktop Applications)</b>
-  - 
-- <b>Python</b>
-  - 
+- <b>Front End Development (JavaScript, HTML, CSS, Node.js)</b>
+  - [Portfolio Website](https://github.com/zkaiser98/Portfolio)
 
 
 <h2> 🤳 Connect with me:</h2>
