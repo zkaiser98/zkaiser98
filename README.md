@@ -22,7 +22,7 @@
 <h2></h2>
 
 - 👋 Hi, I’m Zachary Kaiser
-- 🏫 Currently a Junior @ UW-Milwaukee
+- 🏫 Currently a Senior @ UW-Milwaukee
 - 🇺🇸 US Navy Veteran
 - 👀 I’m interested in becoming a Full Stack Developer
 - 🌱 I’m currently learning C# .NET as well as Git
