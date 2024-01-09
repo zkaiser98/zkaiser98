@@ -25,5 +25,5 @@
 - 🏫 Currently a Junior @ UW-Milwaukee
 - 🇺🇸 US Navy Veteran
 - 👀 I’m interested in becoming a Full Stack Developer
-- 🌱 I’m currently learning Swift as well as Git
+- 🌱 I’m currently learning C# .NET as well as Git
 - 📫 Reach me zkaiser98@gmail.com
