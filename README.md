@@ -4,10 +4,11 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [LeetCode Profile](https://leetcode.com/zkaiser98)
-- <b>Full Stack Web App (Python, Django, HTML, CSS, and SQL)</b>
+- <b>Full Stack Web App (Python, JavaScript, Vue.js, Django, Firebase, HTML, CSS, and SQL)</b>
   - [Blogspot Website](https://github.com/zkaiser98/BlogspotDupe)
   - [Nature Reserve Website](https://github.com/zkaiser98/NatureReserve)
   - [AI Chatbot Application](https://github.com/zkaiser98/Capstone)
+  - [SLP Therapy Website](https://github.com/zkaiser98/slp-website)
 - <b>Front End Development (JavaScript, HTML, CSS, Node.js)</b>
   - [Portfolio Website](https://github.com/zkaiser98/Portfolio)
 
